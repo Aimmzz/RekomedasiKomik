@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bgabout"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    tools:context=".AboutActivity">
+    <de.hdodenhof.circleimageview.CircleImageView
+        android:layout_width="200dp"
+        android:layout_height="300dp"
+        android:src="@drawable/rohim"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Rohim Kurniawan"
+        android:textColor="@color/black"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:fontFamily="@font/novaroundregular"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="rohimkurniawan456@gmail.com"
+        android:textSize="14sp"/>
+    <Button
+        android:id="@+id/back_to_main1"
+        android:layout_width="200dp"
+        android:layout_height="41dp"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="170dp"
+        android:textColor="@color/white"
+        android:background="@drawable/btnback"
+        android:textAllCaps="false"
+        android:text="Back"/>
+</LinearLayout>

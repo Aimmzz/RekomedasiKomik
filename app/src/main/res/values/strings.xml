@@ -1,0 +1,123 @@
+<resources>
+    <integer-array name="manga_list_photo">
+        <item>@drawable/one_piece</item>
+        <item>@drawable/berserk</item>
+        <item>@drawable/kingdom</item>
+        <item>@drawable/jujutsukaisen</item>
+        <item>@drawable/bleach</item>
+        <item>@drawable/blackclover</item>
+        <item>@drawable/naruto</item>
+        <item>@drawable/rebuildworld</item>
+        <item>@drawable/firetail</item>
+        <item>@drawable/fireforce</item>
+    </integer-array>
+    <integer-array name="manhwa_list_foto">
+        <item>@drawable/solo_leveling</item>
+        <item>@drawable/mad_demon</item>
+        <item>@drawable/venom_dragon</item>
+        <item>@drawable/killthehero</item>
+        <item>@drawable/northernblade</item>
+        <item>@drawable/nanomachine</item>
+        <item>@drawable/castle</item>
+        <item>@drawable/mounthua</item>
+        <item>@drawable/leveling</item>
+        <item>@drawable/maybemeanttobe</item>
+    </integer-array>
+    <string name="app_name">Rekomendasi Komik</string>
+    <string name="mm">MM</string>
+    <string name="judul">Rekomendasi Komik</string>
+    <string name="loading">Now Loading</string>
+    <string name="manga_dan_manhwa">Manga dan Manhwa /</string>
+    <string name="lanjut">Lanjut</string>
+
+    <string name="rekomendasi">Aplikasi ini dibuat untuk tujuan memberikan rekomendasi</string>
+    <string name="membaca_komik_online">membaca komik online</string>
+    <string name="welcome_to_my_aplication">Welcome to My Aplication</string>
+
+    //sinopsis manga
+    <string name="one_piece">One Piece</string>
+
+    //sinopsis manhwa
+    <string name="eiichiro_oda">Eiichiro Oda</string>
+    <string name="clik_untuk_detail_manhwa">Klik untuk detail manhwa :</string>
+    <string name="back">Back</string>
+    <string name="clik_untuk_detail_manga">Klik untuk detail manga :</string>
+    <string name="share">Share</string>
+    <string name="rekomendasi_web_tempat_baca">Rekomendasi Web Tempat Baca</string>
+
+    //resource untuk manga
+    <string-array name="sinopsis_manga">
+        <item>Manga One Piece yang dibuat oleh komikus bernama Oda Eiichiro ini bercerita tentang Gol D. Roger, seorang pria yang disebut sebagai "Raja Bajak Laut," akan dieksekusi oleh Pemerintah Dunia. Tapi tepat sebelum kematiannya, dia mengkonfirmasi keberadaan harta karun besar, One Piece, yang terletak di suatu tempat di lautan luas yang dikenal sebagai Grand Line. Mengumumkan bahwa One Piece dapat diklaim oleh siapa saja yang cukup layak untuk mencapainya, Raja Bajak Laut dieksekusi dan Zaman Bajak Laut Hebat dimulai. Dua puluh dua tahun kemudian, seorang pemuda bernama Monkey D.Luffy siap untuk memulai petualangannya sendiri, mencari One Piece dan berusaha untuk menjadi Raja Bajak Laut yang baru. Berbekal hanya topi jerami, perahu kecil, dan tubuh elastis, ia memulai perjalanan yang fantastis untuk mengumpulkan awaknya sendiri dan kapal yang layak yang akan membawa mereka melintasi Grand Line untuk mengklaim status terbesar di laut lepas.</item>
+        <item>Manga Berserk bercerita tentang Gats, yang dikenal sebagai Black Swordsman, mencari perlindungan dari kekuatan jahat tertarik padanya dan istrinya karena tanda setan di leher mereka, dan juga dendam terhadap orang yang dicap sebagai seorang korban suci. Dibantu hanya dengan kekuatan titanic nya diperoleh dari masa kecil yang keras hidup dengan tentara bayaran, pedang raksasa, dan tangan palsu besi kiri, Gats harus berjuang melawan takdir suram nya, sambil berjuang dengan kemarahan yang mungkin kehilangan sisi kemanusiaannya.</item>
+        <item>Manga Kingdom yang dibuat oleh komikus bernama HARA Yasuhisa ini bercerita tentang Jutaan tahun telah berlalu sejak zaman legenda, ketika dunia manusia dan para dewa masih sama. Pada masa-masa inilah keinginan manusia yang menggerakkan dunia. Ini adalah era perang 500 tahun: Periode negara-negara yang bertikai. Kerajaan adalah kisah tentang seorang anak muda bernama Shin yang tumbuh menjadi seorang jenderal yang hebat dan semua cobaan dan pertumpahan darah yang membawanya ke sana.</item>
+        <item>Manga Jujutsu Kaisen yang dibuat oleh komikus bernama AKUTAMI Gege ini bercerita tentang Yuuji, seorang siswa di SMA Sugisawa Town # 3, kebetulan sangat berbakat di trek dan lapangan ... Tapi karena dia tidak tertarik berlarian dalam lingkaran, dia senang sebagai kerang menjadi anggota Klub Penelitian Ilmu Gaib ! Meskipun dia hanya bergabung untuk tendangan, hal-hal mulai menjadi serius ketika roh yang sebenarnya muncul di sekolah.</item>
+        <item>Manga Bleach yang dibuat oleh komikus bernama KUBO Tite ini bercerita tentang Ichigo Kurosaki selalu bisa melihat hantu, tetapi kemampuan ini tidak mengubah hidupnya hampir sebanyak pertemuan dekatnya dengan Rukia Kuchiki, seorang Soul Reaper dan anggota Soul Society yang misterius. Saat melawan Hollow, roh jahat yang memangsa manusia yang menampilkan energi psikis, Rukia mencoba untuk meminjamkan Ichigo beberapa kekuatannya sehingga dia bisa menyelamatkan keluarganya; tapi yang mengejutkannya, Ichigo menyerap setiap tetes energinya. Sekarang sebagai Soul Reaper sendiri, Ichigo dengan cepat mengetahui bahwa dunia yang dia huni adalah dunia yang penuh dengan roh-roh berbahaya dan, bersama dengan Rukia--yang perlahan-lahan mendapatkan kembali kekuatannya--tugas Ichigo untuk melindungi yang tidak bersalah dari Hollow dan membantu roh sendiri menemukan kedamaian.</item>
+        <item>Manga Black Clover yang dibuat oleh komikus bernama TABATA Yuuki ini bercerita tentang Asta dan Yuno ditinggalkan bersama sebagai bayi di keranjang di gereja yang sama pada hari yang sama, dan sejak itu tidak dapat dipisahkan. Sebagai anak-anak, mereka berjanji bahwa mereka akan bersaing satu sama lain untuk melihat siapa yang akan menjadi Raja Penyihir berikutnya. Namun, ketika mereka tumbuh dewasa, beberapa perbedaan di antara mereka menjadi jelas - Yuno adalah keajaiban ajaib, sementara Asta tidak bisa menggunakan sihir sama sekali. Di negara di mana sihir adalah segalanya dan kemampuan atletik tidak ada apa-apanya, Asta berusaha setiap hari untuk memprovokasi bahkan sihir paling sederhana dari dirinya dengan pelatihan fisik dan proklamasi keras wasiatnya. Pada usia 15, selama upacara kelompok di mana grimoires tiga daun semanggi dari desain yang berbeda melayang ke setiap orang, Yuno menerima buku spektakuler dengan semanggi empat daun yang legendaris, sementara Asta tidak menerima apa-apa sama sekali. Namun, kemudian, ketika Yuno terkejut dan terperangkap oleh seorang ksatria sihir yang jatuh, kebenaran tentang kekuatan dan tekad Asta terungkap — grimoire berpola gelap yang berpola gelap keluar dari menara upacara dan muncul di depannya! Buku anti-sihir "semanggi hitam" ini memiliki semanggi lima daun di sampulnya, meskipun Asta sendiri tidak melihatnya karena buku itu menyala sebentar hanya sekali ketika dia membela temannya. Sekarang kedua teman, jenius daun empat semanggi dan tidak-bakat dengan semanggi hitam tersembunyi, sedang menuju keluar di dunia, bersaing untuk tujuan yang sama.</item>
+        <item>Manga Naruto yang dibuat oleh komikus bernama Kishimoto Masashi ini bercerita tentang Sebelum Naruto lahir, iblis rubah besar telah menyerang Desa Daun Tersembunyi. Hokage ke-4 dari desa daun menyegel iblis di dalam Naruto yang baru lahir, menyebabkan dia tanpa sadar tumbuh dibenci oleh sesama penduduk desa. Meskipun kekurangan bakat di banyak bidang ninjutsu, Naruto berusaha untuk hanya satu tujuan: untuk mendapatkan gelar Hokage, ninja terkuat di desanya. Menginginkan rasa hormat yang tidak pernah dia terima, Naruto bekerja menuju mimpinya dengan sesama teman Sasuke dan Sakura dan mentor Kakashi saat mereka melalui banyak cobaan dan pertempuran yang datang dengan menjadi seorang ninja.</item>
+        <item>Manga Rebuild World yang dibuat oleh komikus bernama Nafuse ini bercerita tentang Peradaban masa lalu, yang sekarang disebut "Dunia Lama", telah menghasilkan banyak "Peninggalan" dengan teknologi canggihnya. Banyak puing-puing material yang tidak diketahui, gedung-gedung tinggi yang melayang di udara, obat-obatan aneh dan sekelompok senjata yang terlalu kuat untuk digunakan oleh orang-orang. Setelah runtuhnya ilmu pengetahuan dan peradaban, orang-orang mengumpulkan "Relik" ini, dan seiring waktu mereka membangun kembali masyarakat manusia. Dengan cara ini para "Pemburu" diciptakan, para pejuang yang menghadapi berbagai bahaya Dunia Lama. Akira, seorang anak pemburu baru yang ingin keluar dari daerah kumuh, memasuki reruntuhan Dunia Lama ia bertemu dengan seorang gadis misterius yang hanya bisa dilihat olehnya sebagai hantu, di dunia di mana para pemburu berusaha untuk mengatasi warisan peradaban lama.</item>
+        <item>Manga Fairy Tail yang dibuat oleh komikus bernama MASHIMA Hiro ini bercerita tentang Penyihir surga, Lucy ingin bergabung dengan Fairy Tail, guild untuk penyihir paling kuat. Tetapi sebaliknya, ambisinya mendarat di genggaman sekelompok pembajak yang dipimpin oleh seorang pesulap yang licik. Satu-satunya harapannya adalah Natsu, bocah lelaki aneh yang dia temui dalam perjalanannya. Natsu bukan pahlawan khasmu - tapi dia mungkin saja harapan terbaik Lucy.</item>
+        <item>Manga Fire Brigade of Flames yang dibuat oleh komikus bernama OHKUBO Atsushi ini bercerita tentang Teror telah melumpuhkan kota metropolitan Tokyo! Dirasuki oleh setan, orang-orang mulai terbakar, yang mengarah ke pembentukan departemen pemadam kebakaran khusus: Angkatan Api, siap untuk berguling pada saat itu juga untuk melawan pembakaran spontan di mana saja itu mungkin pecah. Salah satu tim Fire Force akan mendapatkan tambahan unik: Shinra, seorang anak laki-laki yang memiliki kekuatan unik untuk berlari dengan kecepatan roket, meninggalkan "jejak setan" yang terkenal dan menghancurkan sepatunya dalam prosesnya. Bisakah Pasukan Pemadam Kebakaran menemukan sumber fenomena aneh ini dan menghentikannya? Atau akankah kota itu terbakar menjadi abu terlebih dahulu?</item>
+    </string-array>
+    <string-array name="sinopsis_manhwa">
+        <item>Manhwa Solo Leveling yang dibuat oleh komikus bernama Chugong 추공 ini bercerita tentang 10 tahun yang lalu, setelah "Gerbang" yang menghubungkan dunia nyata dengan dunia monster terbuka, beberapa orang biasa, setiap hari menerima kekuatan untuk berburu monster di dalam Gerbang. Mereka dikenal sebagai "Pemburu". Namun, tidak semua Pemburu kuat. Nama saya Sung Jin-Woo, seorang Pemburu peringkat-E. Saya seseorang yang harus mempertaruhkan nyawanya di ruang bawah tanah paling rendah, "Terlemah di Dunia". Tidak memiliki keterampilan apa pun untuk ditampilkan, saya hampir tidak mendapatkan uang yang dibutuhkan dengan bertarung di ruang bawah tanah berlevel rendah… setidaknya sampai saya menemukan ruang bawah tanah tersembunyi dengan kesulitan tersulit dalam ruang bawah tanah peringkat-D! Pada akhirnya, saat aku menerima kematian, tiba-tiba aku menerima kekuatan aneh, log pencarian yang hanya bisa kulihat, rahasia untuk naik level yang hanya aku yang tahu! Jika saya berlatih sesuai dengan pencarian saya dan monster yang diburu, level saya akan naik. Berubah dari Hunter terlemah menjadi Hunter S-rank terkuat!</item>
+        <item>Manhwa Return of the Mad Demon yang dibuat oleh komikus bernama 유진성 ini bercerita tentang Pria yang tergila-gila pada seni beladiri, Lee JaHa sang Mad Demon. Dia kembali ke masa dirinya masih orang normal yang belum menjadi gila. Lee JaHa dikenal sebagai Mad Demon, dirinya mencuri Heavenly Jade—harta pemimpin Kultus Demonic—alasannya sederhana, karena tidak menyukai si pemimpin. Setelah pengejaran tiada henti dari kultus demonic, Lee JaHa menemui jalan buntu dan tidak bisa kabur lagi setelah pengejaran berhari-hari sambil mengalahkan banyak elite Kultus Demonic. Demi menghina usaha para pengejar dan pemimpin kultus, dia menelan Heavenly Jade sebelum sekarat dan terjatuh dari tebing setelah pertempuran yang hebat. Ketika dirinya membuka mata, dia kembali ke waktu masih berada di penginapan Gyedu, pada masa dirinya masih dipandang rendah oleh semua orang. Dengan kembali ke masa lalu, dalam pikirannya bukan mempertanyakan situasi, melainkan satu hal. ‘aku bisa bertambah kuat!’ karena ini jalan yang sudah pernah dilaluinya, dan fakta kalau dia sangat memahami seni beladiri, dia sadar bisa menjadi lebih kuat ketimbang dirinya yang Mad Demon. Daripada memahami situasinya saat ini, JaHa memeriksa tubuhnya dan mulai menggunakan teknik kultivasi pernafasan. Baru setelah selesai, dia meluruskan situasinya dan menyadari bahwa, dirinya dipukuli karena tuduhan palsu dan penginapannya diporak-porandakan. Bukan seorang pembantu penginapan yang dipandang rendah, sekarang dirinya itu Mad Demon dari Dunia Martial yang angkuh. apa yang akan dilakukannya mulai sekarang?!</item>
+        <item>Sejarah panjang Sekte Medis diikuti dengan kehancuran total. Di lubang neraka keputusasaan, di mana mayat menumpuk seperti gunung dan darah mengalir seperti laut, ‘Asura’ akhirnya terbangun. – Aku akan membunuh mereka semua. Ini tidak akan berakhir sampai aku membunuh mereka semua. Satu-satunya yang selamat dari Sekte Medis, Jin Ja Gang – Ikuti jalan kesepiannya menuju balas dendam!</item>
+        <item>Manhwa Kill the Hero yang dibuat oleh komikus bernama D-Dart ini bercerita tentang Setelah dia dibunuh oleh pemimpin yang benar dari guildnya sendiri, Woojin mendapat kesempatan untuk memulai kembali. Kali ini dia tidak tertarik untuk menyelamatkan dunia dari monster—dia ingin membalas dendam! Pembunuhannya yang tingkat tinggi dengan cepat membuatnya terkenal di antara para pemain game, sambil meningkatkan statistiknya saat dia mendalangi jalannya lebih dekat ke puncak. Tapi ada sesuatu yang tidak bisa diketahui siapa pun: di sisi siapa dia bermain. Sekarang dia tahu cara bermain untuk menang, Woojin tidak akan berhenti untuk menghancurkan sang pahlawan!</item>
+        <item>Ketika dunia diliputi kegelapan oleh ‘Silent Night’, Seniman Bela Diri dari seluruh tempat berkumpul untuk membentuk ‘Sekte Surgawi Utara’. Dengan kekuatan luar biasa dari Sekte Surgawi Utara, Silent Night didesak mundur jauh dan orang-orang mulai menikmati kedamaian sekali lagi. Namun, seiring berjalannya waktu para seniman bela diri dari daratan mulai berkonspirasi melawan ‘Sekte Surgawi Utara’, dan akhirnya menyebabkan kematian Pemimpin Sekte Generasi Keempat, Jin Kwan-Ho. Ketika semua orang meninggalkan sekte, putra satu-satunya Jin Kwan-Ho, Jin Mu-Won tertinggal. Mu-Won tidak pernah belajar apapun tentang seni bela diri, tetapi ia akhirnya menemukan Teknik Martial diam-diam ditinggalkan oleh ayahnya dan mulai memperoleh seni bela diri dari Sekte Surgawi Utara. Lalu suatu hari, seorang gadis misterius muncul di hadapan Mu-Won … !</item>
+        <item>Setelah direndahkan dan menghabiskan hidupnya dalam bahaya, seorang yatim piatu dari pemuja iblis, Yeo-Woon, mendapatkan kunjungan tak terduga dari keturunannya dari masa depan yang memasukkan sebuah mesin nano ke dalam tubuh Cheon-Woon, yang mengubah hidup Cheon Yeo Woon setelah aktivasi. Ikuti Cerita tentang perjalanan Cheon Yeo-Woon di reaperscans.id, melewati pemujaan setan dan naik menjadi yang ahli beladiri terbaik baru saja dimulai.</item>
+        <item>Manhwa Castle yang dibuat oleh komikus bernama Jeong Yeon ini bercerita tentang “Castle”, sindikat kejahatan mahakuasa Korea Selatan. Satu orang kembali ke Korea untuk menggulingkan benteng absolut yaitu “Castle”. Kim Shin, pembunuh Rusia kelahiran Korea bernama “Amur Tiger”. Dia kembali ke kota penuh kejahatan Hoe-Am sesuai dengan keinginan terakhir mentornya, Kang Min-Seong. Kim Shin dan rekan-rekannya mempertaruhkan nyawa mereka saat mereka menuju pertarungan terakhir.</item>
+        <item>Manhwa Return of the Flowery Mountain Sect yang dibuat oleh komikus bernama 비가 ini bercerita tentang Chung Myung, Murid ke-13 dari Sekte Gunung Bunga Besar, Salah satu dari 3 Pendekar Pedang Besar, Pedang Suci Bunga Plum, mengalahkan Chun Ma, yang telah membawa kehancuran dan kekacauan ke dunia. Setelah pertempuran, dia menghembuskan nafas terakhirnya di atas gunung markas dari Sekte Penyembahan Iblis. Ia terlahir kembali setelah 100 tahun dalam tubuh seorang anak. ……Apa? Sekte Gunung Bunga telah jatuh? Omong kosong macam apa itu !?</item>
+        <item>Manhwa Leveling With the Gods yang dibuat oleh komikus bernama Black Ajin ini bercerita tentang Dia menjadi lebih kuat, lebih cepat dari orang lain… akan tapi dia kalah. Pada akhirnya, hanya ada keputusasaan bagi Kim YuWon. Di saat-saat terakhirnya, dia diberi kesempatan lagi… Melalui pengorbanan rekannya, nasibnya masih belum ditentukan. Dengan kembali ke masa lalu, dia mencoba memanjat Menara lagi dengan bakatnya yang tak tertandingi untuk melawan kejahatan kuno yang merupakan ancaman akan hancurnya Menara.</item>
+        <item>Han Jiah, seorang pekerja lepas berusia 32 tahun yang tidak punya pekerjaan, lelah mendengar ocehan orang tuanya untuk menikah dan pindah ke luar. Ketika dia bertemu dengan teman masa kecilnya, Jin Minchul, yang juga merasakan tekanan sama dari orang tuanya, dia tanpa pikir panjang berkata bahwa mereka sebaiknya menikah saja untuk menyelesaikan masalah mereka berdua. Dia tak menyangka kalau Minchul akan menerima sarannya dan tiba-tiba terjun ke dalam dunia pernikahan. Cerita romansa tak terduga yang akan membuat kalian terus penasaran dengan kelanjutannya!</item>
+    </string-array>
+    <string-array name="name_mangaka">
+        <item>Eiichiro Oda</item>
+        <item>Kentaro Miura</item>
+        <item>Yasuhisa Hara</item>
+        <item>Gege Akutami</item>
+        <item>Tite Kubo</item>
+        <item>Yuki Tabata</item>
+        <item>Masashi Kishimoto</item>
+        <item>Kirihito Ayamura</item>
+        <item>Hiro Mashima</item>
+        <item>Atsushi Ohkubo</item>
+    </string-array>
+
+    //resource untuk manhwa
+    <string-array name="name_title">
+        <item>One Piece</item>
+        <item>Berserk</item>
+        <item>Kingdom</item>
+        <item>Jujutsu kaisen</item>
+        <item>Bleach</item>
+        <item>Black Clover</item>
+        <item>Naruto</item>
+        <item>Rebuild World</item>
+        <item>Fairy Tail</item>
+        <item>Fire Force</item>
+    </string-array>
+    <string-array name="pengarang_manhwa">
+        <item>Chu-Gong</item>
+        <item>D-Dart</item>
+        <item>Il Yeonjae</item>
+        <item>킬더히어로, Kildeohieoro</item>
+        <item>Woo-Gak</item>
+        <item>Great H / GGBG</item>
+        <item>Jeong Yeon</item>
+        <item>BIGA / LICO</item>
+        <item>Heuk Ah-In</item>
+        <item>Honeyskein / Damco</item>
+    </string-array>
+    <string-array name="manhwa_titel">
+        <item>Solo Leveling</item>
+        <item>The Return of Crazy Demon</item>
+        <item>Legen of Asura</item>
+        <item>Kill The Hero</item>
+        <item>Legend of Northern Blade</item>
+        <item>Nano Machine</item>
+        <item>Castle</item>
+        <item>Return of Mount Hua Sect</item>
+        <item>Leveling With The Good</item>
+        <item>Maybe Meant to Be</item>
+    </string-array>
+</resources>
